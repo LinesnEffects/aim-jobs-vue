@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "0799",
-      "title": "Vue Job",
-      "type": "Full-Time",
-      "location": "sdadsa",
-      "description": "dssfsd",
-      "salary": "Under $50K",
-      "company": {
-        "name": "asdasd",
-        "description": "asdsa",
-        "contactEmail": "prueba@prueba.com",
-        "contactPhone": "333"
-      }
     }
   ]
 }

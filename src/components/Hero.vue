@@ -4,7 +4,7 @@ import { defineProps } from "vue";
 defineProps({
   title: {
     type: String,
-    default: 'Become a Vue Dev'
+    default: 'Become a Web Dev'
   },
   subtitle: {
     type: String,
